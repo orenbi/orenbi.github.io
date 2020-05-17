@@ -29,9 +29,12 @@ const skillsSection = {
     title: 'תיאור תיקונים וכו',
     subTitle: 'עוד תיאורים',
     skills: [
-        emoji('⚡ מבצע'),
-        emoji('⚡ מבצע'),
-        emoji('⚡ מבצע')
+        emoji('⚡ ניקיון וירוסים במחשב נייד - 200 שח'),
+        emoji('⚡ תיקון מערכת הפעלה במחשב נייד - 250 שח'),
+        emoji('⚡ החלפת כונן במחשב נייד - 550 שח'),
+        emoji('⚡ תיקון שקע טעינה במחשב נייד - 400 שח'),
+        emoji('⚡ החלפת ספק כוח במחשב נייד - 300 שח'),
+        emoji('⚡ החלפת מאוורר במחשב נייד - 350 שח'),
     ],
 
     /* Make Sure You include correct Font Awesome Classname to view your icon
