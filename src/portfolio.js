@@ -81,7 +81,7 @@ const techStack = {
 const contactInfo = {
     title: emoji('אני זמין בכל שאלה ☎️'),
     subtitle: '',
-    number: '+972-54-424-3178',
+    number: '972-54-424-3178+',
     email_address: 'orenbi7@gmail.com'
 }
 
