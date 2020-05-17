@@ -42,7 +42,15 @@ const skillsSection = {
         },
         {
             skillName: '',
+            fontAwesomeClassname: 'fab fa-usb'
+        },
+        {
+            skillName: '',
             fontAwesomeClassname: 'fas fa-print'
+        },
+        {
+            skillName: '',
+            fontAwesomeClassname: 'fas fa-memory'
         },
         {
             skillName: '',
@@ -50,11 +58,7 @@ const skillsSection = {
         },
         {
             skillName: '',
-            fontAwesomeClassname: 'fas fa-plug'
-        },
-        {
-            skillName: '',
-            fontAwesomeClassname: 'far fa-keyboard'
+            fontAwesomeClassname: 'fas fa-microchip'
         }
     ]
 }
