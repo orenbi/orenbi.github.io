@@ -19,7 +19,7 @@ const socialMediaLinks = {
     github: '',
     linkedin: '',
     gmail: 'orenbi7@gmail.com',
-    facebook: 'https://www.facebook.com/'
+    facebook: 'https://www.facebook.com/oren.ishay'
     // Instagram and Twitter are also supported in the links!
 }
 

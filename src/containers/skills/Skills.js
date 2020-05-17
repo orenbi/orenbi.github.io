@@ -10,7 +10,7 @@ export default function Skills() {
       <div className="skills-main-div">
         <Fade left duration={1000}>
             <div className="skills-image-div">
-                <img alt="oren ben ishai working" src={require("../../assests/images/developerActivity.svg")}></img>
+                <img alt="oren ben ishay working" src={require("../../assests/images/developerActivity.svg")}></img>
                 <div className="software-skills-container">
                     <SoftwareSkill />
                 </div>
