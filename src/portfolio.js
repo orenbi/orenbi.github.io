@@ -26,15 +26,19 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-    title: 'תיאור תיקונים וכו',
-    subTitle: 'עוד תיאורים',
+    title: 'מחירון 2020',
+    subTitle: '',
     skills: [
-        emoji('⚡ ניקיון וירוסים במחשב נייד - 200 שח'),
-        emoji('⚡ תיקון מערכת הפעלה במחשב נייד - 250 שח'),
-        emoji('⚡ החלפת כונן במחשב נייד - 550 שח'),
+        emoji('⚡ ניקיון וירוסים במחשב נייד או נייח - 200 שח'),
+        emoji('⚡ תיקון מערכת הפעלה במחשב נייד או נייח - 250 שח'),
+        emoji('⚡ החלפת כונן במחשב נייד או נייח - 550 שח'),
         emoji('⚡ תיקון שקע טעינה במחשב נייד - 400 שח'),
-        emoji('⚡ החלפת ספק כוח במחשב נייד - 300 שח'),
+        emoji('⚡ החלפת ספק כוח במחשב נייח - 350 שח'),
         emoji('⚡ החלפת מאוורר במחשב נייד - 350 שח'),
+        emoji('⚡ תיקון בעיות הדפסה - 250 שח'),
+        emoji('⚡ הגדלת טווח רשת אלחוטית - 250 שח'),
+        emoji('⚡ תיקון בעיות ברשת אלחוטית - 250 שח'),
+        emoji('⚡ התקנת רשת אלחוטית חדשה - 200 שח'),
     ],
 
     /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -42,56 +46,32 @@ const skillsSection = {
 
     softwareSkills: [
         {
-            skillName: 'html-5',
-            fontAwesomeClassname: 'fab fa-html5'
+            skillName: '',
+            fontAwesomeClassname: 'fas fa-desktop'
         },
         {
-            skillName: 'css3',
-            fontAwesomeClassname: 'fab fa-css3-alt'
+            skillName: '',
+            fontAwesomeClassname: 'fas fa-wifi'
         },
         {
-            skillName: 'sass',
-            fontAwesomeClassname: 'fab fa-sass'
+            skillName: '',
+            fontAwesomeClassname: 'fas fa-laptop'
         },
         {
-            skillName: 'JavaScript',
-            fontAwesomeClassname: 'fab fa-js'
+            skillName: '',
+            fontAwesomeClassname: 'fas fa-print'
         },
         {
-            skillName: 'reactjs',
-            fontAwesomeClassname: 'fab fa-react'
+            skillName: '',
+            fontAwesomeClassname: 'fas fa-network-wired'
         },
         {
-            skillName: 'nodejs',
-            fontAwesomeClassname: 'fab fa-node'
+            skillName: '',
+            fontAwesomeClassname: 'fas fa-plug'
         },
         {
-            skillName: 'swift',
-            fontAwesomeClassname: 'fab fa-swift'
-        },
-        {
-            skillName: 'npm',
-            fontAwesomeClassname: 'fab fa-npm'
-        },
-        {
-            skillName: 'sql-database',
-            fontAwesomeClassname: 'fas fa-database'
-        },
-        {
-            skillName: 'aws',
-            fontAwesomeClassname: 'fab fa-aws'
-        },
-        {
-            skillName: 'firebase',
-            fontAwesomeClassname: 'fas fa-fire'
-        },
-        {
-            skillName: 'python',
-            fontAwesomeClassname: 'fab fa-python'
-        },
-        {
-            skillName: 'docker',
-            fontAwesomeClassname: 'fab fa-docker'
+            skillName: '',
+            fontAwesomeClassname: 'far fa-keyboard'
         }
     ]
 }

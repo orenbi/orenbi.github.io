@@ -20,6 +20,11 @@
   font-weight: 400;
 }
 
+.software-skills-container {
+    margin: auto;
+    padding: 20px 0 0 60px;
+}
+
 /* Media Query */
 @media (max-width: 1380px) {
   .skills-heading {
@@ -52,5 +57,8 @@
   .skills-image-div {
     /* display: none; */
     order: 2;
+  }
+  .software-skills-container {
+      display: block;
   }
 }
