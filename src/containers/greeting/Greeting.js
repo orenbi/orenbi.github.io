@@ -22,13 +22,12 @@ export default function Greeting() {
             <p className="greeting-text-p subTitle">{greeting.subTitle}</p>
             <SocialMedia />
             <div className="button-greeting-div">
-              <Button text="Contact me" href="#contact" />
-              <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
+              <Button text="צור קשר" href="#contact" />
             </div>
           </div>
         </div>
         <div className="greeting-image-div">
-          <img alt="saad sitting on table" src={require("../../assests/images/manOnTable.svg")}></img>
+          <img alt="אורן בן ישי מתקן מחשב" src={require("../../assests/images/manOnTable.svg")}></img>
         </div>
       </div>
     </div>
