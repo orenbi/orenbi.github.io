@@ -1,29 +1,16 @@
-﻿/* Change this file to get your personal Portfolio */
-
-// Your Summary And Greeting Section
-
-import emoji from 'react-easy-emoji'
+﻿import emoji from 'react-easy-emoji'
 
 const greeting = {
-    /* Your Summary And Greeting Section */
     username: 'אורן בן ישי',
     title: 'הנדסאי אלטרוניקה וטכנאי מחשבים',
-    subTitle: emoji('עוד טקסט 🚀'),
+    subTitle: emoji('ב-5 שנים האחרונות עסקתי בתיקון מחשבים נייחים וניידים ללקוחות פרטיים ועסקים קטנים. אני זמין להגעה לבית הלקוח באזור כפר-סבא והשרון. אשמח לתת יעוץ ואבחון ראשוני טלפוני 🚀'),
     resumeLink: 'https://drive.google.com/'
 }
 
-// Your Social Media Link
-
 const socialMediaLinks = {
-
-    github: '',
-    linkedin: '',
     gmail: 'orenbi7@gmail.com',
     facebook: 'https://www.facebook.com/oren.ishay'
-    // Instagram and Twitter are also supported in the links!
 }
-
-// Your Skills Section
 
 const skillsSection = {
     title: 'מחירון 2020',
@@ -40,10 +27,6 @@ const skillsSection = {
         emoji('⚡ תיקון בעיות ברשת אלחוטית - 250 שח'),
         emoji('⚡ התקנת רשת אלחוטית חדשה - 200 שח'),
     ],
-
-    /* Make Sure You include correct Font Awesome Classname to view your icon
-    https://fontawesome.com/icons?d=gallery */
-
     softwareSkills: [
         {
             skillName: '',
@@ -76,18 +59,16 @@ const skillsSection = {
     ]
 }
 
-// Your top 3 proficient stacks/tech experience
-
 const techStack = {
-    viewSkillBars: true, //Set it to true to show Proficiency Section
+    viewSkillBars: true,
     experience: [
         {
             Stack: 'תחזוקה ותיקון של מחשבים מכל הסוגים',
             progressPercentage: '95%'
         },
         {
-            Stack: 'פתרון בעיות מורכבות',  //Insert stack or technology you have experience in
-            progressPercentage: '90%'  //Insert relative proficiency in percentage
+            Stack: 'פתרון בעיות מורכבות',
+            progressPercentage: '90%'
         },
         {
             Stack: 'תכנון רשתות',
@@ -97,11 +78,6 @@ const techStack = {
     ]
 }
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
-
-// Your Achievement Section Include Your Certification Talks and More
-
 const contactInfo = {
     title: emoji('אני זמין בכל שאלה ☎️'),
     subtitle: '',
@@ -109,6 +85,6 @@ const contactInfo = {
     email_address: 'orenbi7@gmail.com'
 }
 
-// twitterDetails
-// openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection,
+
+// openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, twitterDetails
 export { greeting, socialMediaLinks, skillsSection, techStack, contactInfo }
