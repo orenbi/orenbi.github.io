@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39ade98d.chunk.css",
+    "main.js": "/static/js/main.36523e17.chunk.js",
+    "main.js.map": "/static/js/main.36523e17.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e03aca7b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e03aca7b.js.map",
+    "static/js/2.72947fed.chunk.js": "/static/js/2.72947fed.chunk.js",
+    "static/js/2.72947fed.chunk.js.map": "/static/js/2.72947fed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10f50469f8e32fa4ff6ff33cf611cf0d.js": "/precache-manifest.10f50469f8e32fa4ff6ff33cf611cf0d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.39ade98d.chunk.css.map": "/static/css/main.39ade98d.chunk.css.map",
+    "static/media/index.css": "/static/media/Arimo-Regular.9fe23bf2.ttf",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e03aca7b.js",
+    "static/js/2.72947fed.chunk.js",
+    "static/css/main.39ade98d.chunk.css",
+    "static/js/main.36523e17.chunk.js"
+  ]
+}
