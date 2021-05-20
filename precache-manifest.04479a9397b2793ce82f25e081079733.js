@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ac3f5a95edc122760765a00ec04384c",
+    "revision": "d1f4cbc99e5c38891dc96d7ddc9bda09",
     "url": "/index.html"
   },
   {
-    "revision": "6e8a0057afe7d4bff5aa",
-    "url": "/static/css/main.f2d5ace7.chunk.css"
+    "revision": "e36c5bab7f0b3c7976e7",
+    "url": "/static/css/main.8e70a077.chunk.css"
   },
   {
-    "revision": "8f6ffcf268016dd3b6d8",
-    "url": "/static/js/2.72947fed.chunk.js"
+    "revision": "66c412fb61978255da50",
+    "url": "/static/js/2.d9abaeb1.chunk.js"
   },
   {
-    "revision": "6e8a0057afe7d4bff5aa",
-    "url": "/static/js/main.74924491.chunk.js"
+    "revision": "e36c5bab7f0b3c7976e7",
+    "url": "/static/js/main.942acf8b.chunk.js"
   },
   {
     "revision": "c7d10ede0edd7e2603d6",
     "url": "/static/js/runtime-main.e03aca7b.js"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/static/media/Agustina.21f233e1.woff"
-  },
-  {
-    "revision": "ee6539921d713482b8ccd4d0d23961bb",
-    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+    "revision": "9fe23bf225eecfcdb736e063b08a6123",
+    "url": "/static/media/Arimo-Regular.9fe23bf2.ttf"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",

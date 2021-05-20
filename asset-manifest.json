@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.39ade98d.chunk.css",
-    "main.js": "/static/js/main.36523e17.chunk.js",
-    "main.js.map": "/static/js/main.36523e17.chunk.js.map",
+    "main.css": "/static/css/main.8e70a077.chunk.css",
+    "main.js": "/static/js/main.942acf8b.chunk.js",
+    "main.js.map": "/static/js/main.942acf8b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e03aca7b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e03aca7b.js.map",
-    "static/js/2.72947fed.chunk.js": "/static/js/2.72947fed.chunk.js",
-    "static/js/2.72947fed.chunk.js.map": "/static/js/2.72947fed.chunk.js.map",
+    "static/js/2.d9abaeb1.chunk.js": "/static/js/2.d9abaeb1.chunk.js",
+    "static/js/2.d9abaeb1.chunk.js.map": "/static/js/2.d9abaeb1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.10f50469f8e32fa4ff6ff33cf611cf0d.js": "/precache-manifest.10f50469f8e32fa4ff6ff33cf611cf0d.js",
+    "precache-manifest.04479a9397b2793ce82f25e081079733.js": "/precache-manifest.04479a9397b2793ce82f25e081079733.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.39ade98d.chunk.css.map": "/static/css/main.39ade98d.chunk.css.map",
+    "static/css/main.8e70a077.chunk.css.map": "/static/css/main.8e70a077.chunk.css.map",
     "static/media/index.css": "/static/media/Arimo-Regular.9fe23bf2.ttf",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e03aca7b.js",
-    "static/js/2.72947fed.chunk.js",
-    "static/css/main.39ade98d.chunk.css",
-    "static/js/main.36523e17.chunk.js"
+    "static/js/2.d9abaeb1.chunk.js",
+    "static/css/main.8e70a077.chunk.css",
+    "static/js/main.942acf8b.chunk.js"
   ]
 }
