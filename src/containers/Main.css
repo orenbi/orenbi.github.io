@@ -1,0 +1,26 @@
+
+.whatsapp-floating {
+    position: absolute;
+    bottom: 25px;
+    left: 30px;
+    font-size: 60px;
+}
+
+.whatsapp-floating > a {
+    display: block;
+    width: 62px;
+    height: 62px;
+}
+
+.whatsapp-floating > a svg {
+    color: white;
+    margin-bottom: 13px;
+    margin-left: 5px;
+    background: #27d367;
+    border-radius: 125px;
+    width: 65px !important;
+    height: 65px;
+
+    filter: drop-shadow(0rem 0.2rem 0.5rem rgba(0, 0, 0, 0.5));
+
+}
